@@ -1,0 +1,173 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Archer et~al.}{2017}]{archerapplications}
+Archer, D., Chen, L., Cheon, J.~H., Gilad-Bachrach, R., Hallman, R.~A., Huang,
+  Z., Jiang, X., Kumaresan, R., Malin, B.~A., Sofia, H., et~al. (2017).
+\newblock Applications of homomorphic encryption.
+
+\bibitem[\protect\astroncite{Barz et~al.}{2012}]{barz2012demonstration}
+Barz, S., Kashefi, E., Broadbent, A., Fitzsimons, J.~F., Zeilinger, A., and
+  Walther, P. (2012).
+\newblock Demonstration of blind quantum computing.
+\newblock {\em Science}, 335(6066):303--308.
+
+\bibitem[\protect\astroncite{Bremner et~al.}{2010}]{bremner2010classical}
+Bremner, M.~J., Jozsa, R., and Shepherd, D.~J. (2010).
+\newblock Classical simulation of commuting quantum computations implies
+  collapse of the polynomial hierarchy.
+\newblock In {\em Proceedings of the Royal Society of London A: Mathematical,
+  Physical and Engineering Sciences}. The Royal Society.
+
+\bibitem[\protect\astroncite{Broadbent et~al.}{2009}]{broadbent2009universal}
+Broadbent, A., Fitzsimons, J., and Kashefi, E. (2009).
+\newblock Universal blind quantum computation.
+\newblock In {\em Foundations of Computer Science, 2009. FOCS'09. 50th Annual
+  IEEE Symposium on}, pages 517--526. IEEE.
+
+\bibitem[\protect\astroncite{Broadbent and
+  Jeffery}{2015}]{broadbent2015quantum}
+Broadbent, A. and Jeffery, S. (2015).
+\newblock Quantum homomorphic encryption for circuits of low {T}-gate
+  complexity.
+\newblock In {\em Annual Cryptology Conference}, pages 609--629. Springer.
+
+\bibitem[\protect\astroncite{Canetti et~al.}{2011a}]{canetti2011practical}
+Canetti, R., Riva, B., and Rothblum, G.~N. (2011a).
+\newblock Practical delegation of computation using multiple servers.
+\newblock In {\em Proceedings of the 18th ACM conference on Computer and
+  communications security}, pages 445--454. ACM.
+
+\bibitem[\protect\astroncite{Canetti et~al.}{2011b}]{canetti2011two}
+Canetti, R., Riva, B., and Rothblum, G.~N. (2011b).
+\newblock Two 1-round protocols for delegation of computation.
+\newblock {\em IACR Cryptology ePrint Archive}, 2011.
+
+\bibitem[\protect\astroncite{Fitzsimons}{2012}]{Joe}
+Fitzsimons, J. (2012).
+\newblock Blind quantum computing and fully homomorphic encryption.
+\newblock Stackexchange.
+
+\bibitem[\protect\astroncite{Fitzsimons et~al.}{2007}]{fitzsimons2007quantum}
+Fitzsimons, J., Xiao, L., Benjamin, S.~C., and Jones, J.~A. (2007).
+\newblock Quantum information processing with delocalized qubits under global
+  control.
+\newblock {\em Physical review letters}, 99(3).
+
+\bibitem[\protect\astroncite{Fitzsimons}{2017}]{fitzsimons2017private}
+Fitzsimons, J.~F. (2017).
+\newblock Private quantum computation: {A}n introduction to blind quantum
+  computing and related protocols.
+\newblock {\em npj Quantum Information}, 3(1):23.
+
+\bibitem[\protect\astroncite{Gentry}{2009}]{gentry2009fully}
+Gentry, C. (2009).
+\newblock {\em A fully homomorphic encryption scheme}.
+\newblock Stanford University.
+
+\bibitem[\protect\astroncite{Hayes}{2008}]{hayes2008cloud}
+Hayes, B. (2008).
+\newblock Cloud computing.
+\newblock {\em Communications of the ACM}, 51(7):9--11.
+
+\bibitem[\protect\astroncite{Huang et~al.}{2017}]{huang2017experimental}
+Huang, H.-L., Zhao, Q., Ma, X., Liu, C., Su, Z.-E., Wang, X.-L., Li, L., Liu,
+  N.-L., Sanders, B.~C., Lu, C.-Y., et~al. (2017).
+\newblock Experimental blind quantum computing for a classical client.
+\newblock {\em Physical review letters}, 119(5).
+
+\bibitem[\protect\astroncite{Kassal et~al.}{2011}]{kassal2011simulating}
+Kassal, I., Whitfield, J.~D., Perdomo-Ortiz, A., Yung, M.-H., and Aspuru-Guzik,
+  A. (2011).
+\newblock Simulating chemistry using quantum computers.
+\newblock {\em Annual review of physical chemistry}, 62:185--207.
+
+\bibitem[\protect\astroncite{Meissen}{2012}]{meissen2012mathematical}
+Meissen, R. (2012).
+\newblock A mathematical approach to fully homomorphic encryption.
+\newblock {\em A Major Qualifying Project Report Submitted to The Faculty of
+  the Worcester Polytechnic Institute}.
+
+\bibitem[\protect\astroncite{Metzgar}{2017}]{metzgar2017rsa}
+Metzgar, C.~N. (2017).
+\newblock {\em RSA Cryptosystem: An Analysis and Python Simulator}.
+\newblock PhD thesis, Appalachian State University.
+
+\bibitem[\protect\astroncite{Miller}{2008}]{miller2008cloud}
+Miller, M. (2008).
+\newblock {\em Cloud computing: Web-based applications that change the way you
+  work and collaborate online}.
+\newblock Que publishing.
+
+\bibitem[\protect\astroncite{Naehrig et~al.}{2011}]{naehrig2011can}
+Naehrig, M., Lauter, K., and Vaikuntanathan, V. (2011).
+\newblock Can homomorphic encryption be practical?
+\newblock In {\em Proceedings of the 3rd ACM workshop on Cloud computing
+  security workshop}, pages 113--124. ACM.
+
+\bibitem[\protect\astroncite{Nielsen and Chuang}{2000}]{nielsen2000quantum}
+Nielsen, M.~A. and Chuang, I. (2000).
+\newblock Quantum computation.
+\newblock {\em Quantum Information. Cambridge University Press, Cambridge}.
+
+\bibitem[\protect\astroncite{Ogburn et~al.}{2013}]{ogburn2013homomorphic}
+Ogburn, M., Turner, C., and Dahal, P. (2013).
+\newblock Homomorphic encryption.
+\newblock {\em Procedia Computer Science}, 20:502--509.
+
+\bibitem[\protect\astroncite{Ouyang et~al.}{2015}]{ouyang2015quantum}
+Ouyang, Y., Tan, S.-H., and Fitzsimons, J. (2015).
+\newblock Quantum homomorphic encryption from quantum codes.
+\newblock {\em arXiv preprint arXiv:1508.00938}.
+
+\bibitem[\protect\astroncite{Pfleeger and
+  Pfleeger}{2002}]{pfleeger2002security}
+Pfleeger, C.~P. and Pfleeger, S.~L. (2002).
+\newblock {\em Security in computing}.
+\newblock Prentice Hall Professional Technical Reference.
+
+\bibitem[\protect\astroncite{Steane}{1998}]{steane1998quantum}
+Steane, A. (1998).
+\newblock Quantum computing.
+\newblock {\em Reports on Progress in Physics}, 61(2):117.
+
+\bibitem[\protect\astroncite{Stuntz}{2010}]{Craig}
+Stuntz, C. (2010).
+\newblock What is homomorphic encryption, and why should {I} care?
+\newblock Blog.
+
+\bibitem[\protect\astroncite{Subashini and Kavitha}{2011}]{subashini2011survey}
+Subashini, S. and Kavitha, V. (2011).
+\newblock A survey on security issues in service delivery models of cloud
+  computing.
+\newblock {\em Journal of network and computer applications}, 34(1):1--11.
+
+\bibitem[\protect\astroncite{Tan et~al.}{2016}]{tan2016quantum}
+Tan, S.-H., Kettlewell, J.~A., Ouyang, Y., Chen, L., and Fitzsimons, J.~F.
+  (2016).
+\newblock A quantum approach to homomorphic encryption.
+\newblock {\em Scientific reports}, 6.
+
+\bibitem[\protect\astroncite{Tillmann et~al.}{2015}]{tillmann2015generalized}
+Tillmann, M., Tan, S.-H., Stoeckl, S.~E., Sanders, B.~C., de~Guise, H.,
+  Heilmann, R., Nolte, S., Szameit, A., and Walther, P. (2015).
+\newblock Generalized multiphoton quantum interference.
+\newblock {\em Physical Review X}, 5(4).
+
+\bibitem[\protect\astroncite{Unruh}{1995}]{unruh1995maintaining}
+Unruh, W.~G. (1995).
+\newblock Maintaining coherence in quantum computers.
+\newblock {\em Physical Review A}, 51(2):992.
+
+\bibitem[\protect\astroncite{Yang et~al.}{2013}]{yang2013evaluation}
+Yang, Y. et~al. (2013).
+\newblock {\em Evaluation of somewhat homomorphic encryption schemes}.
+\newblock PhD thesis, Massachusetts Institute of Technology.
+
+\bibitem[\protect\astroncite{Yokoo and Suzuki}{2002}]{yokoo2002secure}
+Yokoo, M. and Suzuki, K. (2002).
+\newblock Secure multi-agent dynamic programming based on homomorphic
+  encryption and its application to combinatorial auctions.
+\newblock In {\em Proceedings of the first international joint conference on
+  Autonomous agents and multiagent systems: part 1}, pages 112--119. ACM.
+
+\end{thebibliography}
